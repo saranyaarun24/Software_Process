@@ -1,2 +1,2 @@
 # Software_Process
-Software Process
+To establish an effective software process for an organization and how to make the existing process better.
